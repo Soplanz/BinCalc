@@ -45,7 +45,7 @@ class _MySplashState extends State<MySplash> {
               const SizedBox(
                 height: 20.0,
               ),
-              const Text("TangselBoyCopyRight",
+              const Text("TangselBoyCopyright",
                   style: TextStyle(fontSize: 13, color: Colors.white))
             ],
           ),
