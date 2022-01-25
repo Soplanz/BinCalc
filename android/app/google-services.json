@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933942468795",
+    "project_id": "coba-laptop",
+    "storage_bucket": "coba-laptop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933942468795:android:778a98688b184d0a89c99e",
+        "android_client_info": {
+          "package_name": "com.example.cobalaptop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933942468795-dfhcuu3kh6d1dak9spj35lq179u7lhq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUcbut2ZWyuqQRaFoPuXL4EbR6DiMjOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933942468795-dfhcuu3kh6d1dak9spj35lq179u7lhq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
