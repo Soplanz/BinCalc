@@ -32,7 +32,7 @@ class _MySplashState extends State<MySplash> {
               Image.network(
                   'https://calculator-online.net/assets/img/binary.webp'),
               const SizedBox(
-                height: 25.0,
+                height: 30.0,
               ),
               const Text(
                 "SIMPLE \nCALCULATOR",
@@ -41,6 +41,9 @@ class _MySplashState extends State<MySplash> {
                     fontSize: 35,
                     fontWeight: FontWeight.bold,
                     color: Colors.white),
+              ),
+              const SizedBox(
+                height: 15.0,
               ),
               const Text("TangselBoyCopyRight",
                   style: TextStyle(fontSize: 13, color: Colors.white))
